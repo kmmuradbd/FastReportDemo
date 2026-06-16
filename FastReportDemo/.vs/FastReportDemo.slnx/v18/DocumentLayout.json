@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\FastReportDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE37235-ECF4-4FEB-83B6-054D32B2642E}|FastReportDemo\\FastReportDemo.csproj|c:\\users\\administrator\\source\\repos\\fastreportdemo\\fastreportdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DE37235-ECF4-4FEB-83B6-054D32B2642E}|FastReportDemo\\FastReportDemo.csproj|solutionrelative:fastreportdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE37235-ECF4-4FEB-83B6-054D32B2642E}|FastReportDemo\\FastReportDemo.csproj|c:\\users\\administrator\\source\\repos\\fastreportdemo\\fastreportdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE37235-ECF4-4FEB-83B6-054D32B2642E}|FastReportDemo\\FastReportDemo.csproj|solutionrelative:fastreportdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE37235-ECF4-4FEB-83B6-054D32B2642E}|FastReportDemo\\FastReportDemo.csproj|c:\\users\\administrator\\source\\repos\\fastreportdemo\\fastreportdemo\\employee.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0DE37235-ECF4-4FEB-83B6-054D32B2642E}|FastReportDemo\\FastReportDemo.csproj|solutionrelative:fastreportdemo\\employee.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastReportDemo\\FastReportDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FastReportDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastReportDemo\\FastReportDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FastReportDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T10:38:31.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastReportDemo\\FastReportDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FastReportDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastReportDemo\\FastReportDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FastReportDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T10:17:31.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.frx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FastReportDemo\\FastReportDemo\\Employee.frx",
+              "RelativeDocumentMoniker": "FastReportDemo\\Employee.frx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FastReportDemo\\FastReportDemo\\Employee.frx",
+              "RelativeToolTip": "FastReportDemo\\Employee.frx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-16T10:14:36.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

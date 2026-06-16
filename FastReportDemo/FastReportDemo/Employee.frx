@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="06/16/2026 16:13:14" ReportInfo.Modified="06/16/2026 16:41:27" ReportInfo.CreatorVersion="2022.2.0.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="Employee" DataType="null" Enabled="true">
+      <Column Name="FirstName" DataType="System.String"/>
+      <Column Name="LastName" DataType="System.String"/>
+      <Column Name="ContactNo" DataType="System.String"/>
+    </BusinessObjectDataSource>
+    <Parameter Name="parm1" DataType="System.String"/>
+    <Parameter Name="param2" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="198.45">
+      <TextObject Name="txtName" Left="207.9" Top="18.9" Width="264.6" Height="28.35" Text="This is My Frist Report" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text7" Left="548.1" Top="9.45" Width="94.5" Height="18.9" Text="[Date]" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text9" Left="9.45" Top="66.15" Width="689.85" Height="18.9" Text="[parm1]" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text10" Left="9.45" Top="103.95" Width="689.85" Height="18.9" Text="[param2]" Font="Arial, 14pt, style=Bold"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="202.45" Width="718.2" Height="28.35">
+      <TextObject Name="Text2" Left="18.9" Width="198.45" Height="18.9" Text="First Name" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text4" Left="236.25" Width="207.9" Height="18.9" Text="Last Name" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text6" Left="529.2" Width="179.55" Height="18.9" Text="Contact No" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="234.8" Width="718.2" Height="75.6" DataSource="Employee">
+      <TextObject Name="Text1" Left="18.9" Top="9.45" Width="179.55" Height="18.9" Text="[Employee.FirstName]" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text3" Left="236.25" Top="9.45" Width="198.45" Height="18.9" Text="[Employee.LastName]" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+      <TextObject Name="Text5" Left="529.2" Top="9.45" Width="170.1" Height="18.9" Text="[Employee.ContactNo]" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="314.4" Width="718.2" Height="18.9">
+      <TextObject Name="Text8" Left="633.15" Width="94.5" Height="18.9" IsIntersectedWithOtherObject="true" Text="[Page]" HorzAlign="Center" Font="Arial, 14pt, style=Bold"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>
